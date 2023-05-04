@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muntahac&label=Profile%20views&color=0e75b6&style=flat" alt="muntahac" /> </p>
 
-- 🔭 I’m currently working on **Hangman Game, my first project**
+- 🔭 I’m currently working on **Hangman Game, my first project on AiCore**
 
-- 🌱 I’m currently learning Python, mySQL and R.
+- 🌱 I’m currently learning **Python, mySQL and R**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
