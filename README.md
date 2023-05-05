@@ -1,6 +1,6 @@
 ## Hi it's Montaha! Welcome to my profile! 👋
 
-<h3 align="left">An aspriring computational biologist, interested in the interaction of machine learning and AI in assessing biological and clinical data!</h3>
+<h3 align="left">An aspiring computational biologist, interested in the interaction of machine learning and AI in assessing biological and clinical data!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muntahac&label=Profile%20views&color=0e75b6&style=flat" alt="muntahac" /> </p>
 
