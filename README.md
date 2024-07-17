@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm an aspiring Bioinformatician with a passion for analysing biological data and developing computational tools.
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Cool GIF">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Girl Coding" width="500">
 </div>
 
 ## About Me
@@ -54,10 +54,9 @@ Here are a few projects I've worked on:
 
 <div align="left">
   <a href="https://montahac.github.io">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b206f421-052b-4444-bcdb-48c41c85c18b" alt="Cool GIF">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b206f421-052b-4444-bcdb-48c41c85c18b" alt="Cool GIF" width="150">
   </a>
 </div>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
