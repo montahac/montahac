@@ -1,4 +1,4 @@
-# Hi there, I'm Montaha Chowdhury! 👋
+# Hi there, I'm Montaha! 👋
 
 Welcome to my GitHub profile! I'm an aspiring Bioinformatician with a passion for analysing biological data and developing computational tools.
 
@@ -29,11 +29,11 @@ me.say_hi()
 
 ```
 
-I am a Bioinformatics (BSc) graduate and Cancer Immunology & Biotechnology MSc with expertise in analysing high-throughput sequencing data, developing bioinformatics pipelines, and creating data visualisations. I enjoy working at the intersection of biology and computer science to uncover insights from complex datasets.
+I am interested in analysing high-throughput sequencing data, developing bioinformatics pipelines, and creating data visualisations. I enjoy working at the intersection of biology and computer science to uncover insights from complex datasets.
 
-- 🌱 I’m currently learning advanced machine learning techniques for genomics.
+- 🌱 I’m currently learning advanced machine learning techniques for genomics @AiCore.
 - 👯 I’m looking to collaborate on open-source bioinformatics projects.
-- 💬 Ask me about RNA-Seq analysis, single-cell genomics, and data visualization.
+- 💬 I love meeting new people, so please drop by and say hi!
 
 ## Skills
 
@@ -47,12 +47,10 @@ I am a Bioinformatics (BSc) graduate and Cancer Immunology & Biotechnology MSc w
 
 Here are a few projects I've worked on:
 
-- [RNA-Seq Analysis Pipeline](https://github.com/yourusername/rna-seq-pipeline) - A comprehensive pipeline for RNA-Seq data analysis using Nextflow.
-- [Single-Cell RNA-Seq Analysis](https://github.com/yourusername/single-cell-analysis) - Analysis and visualization of single-cell RNA-Seq data using Seurat.
-- [Genomic Data Visualization](https://github.com/yourusername/genomic-visualization) - Tools and scripts for visualizing genomic data with Python and R.
+- You can visit my [portfolio](https://www.datascienceportfol.io/montahac) for a quick skim!
 
 
-## Get in Touch
+## Please visit my website below to learn more about research experience and projects!
 
 <div align="left">
   <a href="https://montahac.github.io">
