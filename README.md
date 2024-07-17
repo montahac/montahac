@@ -24,7 +24,7 @@ class Bioinformatician:
         print("Thanks for visiting. I hope you enjoy what you see!")
 
 
-me = SoftwareEngineer()
+me = Bioinformatician()
 me.say_hi()
 
 ```
