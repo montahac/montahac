@@ -31,7 +31,7 @@ me.say_hi()
 
 I am interested in analysing high-throughput sequencing data, developing bioinformatics pipelines, and creating data visualisations. I enjoy working at the intersection of biology and computer science to uncover insights from complex datasets.
 
-- 🌱 I’m currently learning advanced machine learning techniques for genomics @AiCore.
+- 🌱 I’m currently learning advanced machine learning techniques for genomics [@AiCore](https://www.theaicore.com/).
 - 👯 I’m looking to collaborate on open-source bioinformatics projects.
 - 💬 I love meeting new people, so please drop by and say hi!
 
